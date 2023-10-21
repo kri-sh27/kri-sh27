@@ -1,7 +1,7 @@
  Hi I'm krishna here!! 👋
 
 
-- 🔭 I’m currently working on Algorithms and Backend Skills
+#- 🔭 I’m currently working on Algorithms and Backend Skills
 - 🌱 I’m currently learning javascript,nodejs, reactjs, angular,java,flutter 
 - ⚡ Fun fact: Love to play Basketball
 <img src="https://komarev.com/ghpvc/?username=kri-sh27&color=dc143c">
